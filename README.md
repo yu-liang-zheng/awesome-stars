@@ -246,7 +246,6 @@
 - [spring-boot](https://github.com/h819/spring-boot) - A Spring Boot Framework based JavaEE application, a Java Commons Utils, and more java practice. &lt;/br&gt; Spring Boot,Spring MVC,Spring JPA,Spring Security,Spring Oauth,Hibernate,QueryDSL,PO to DTO &lt;/br&gt; ZTree,Fuelux Tree,jqgird,flexpaper
 - [init-spring](https://github.com/Credo-Zhao/init-spring) - old project.
 - [ECharts](https://github.com/abel533/ECharts) - 这是一个针对ECharts2.x版本的Java类库，实现了所有ECharts中的Json结构对应的Java对象，并且可以很方便的创建Option,Series等
-- [JavaSE_Demo_Threads](https://github.com/IamXiaRui/JavaSE_Demo_Threads) - Java知识点——多线程
 - [jvm-core-learning-example](https://github.com/JeffLi1993/jvm-core-learning-example) - 关于Java虚拟机核心知识点学习积累的例子，是初学者及虚拟机核心知识巩固的最佳实践。
 - [OnlineFriend](https://github.com/zifangsky/OnlineFriend) - JSP入门实战项目（javabean+JSP+servlet+mysql）
 - [java-core-learning-example](https://github.com/JeffLi1993/java-core-learning-example) - 关于Java核心技术学习积累的例子，是初学者及核心技术巩固的最佳实践。
