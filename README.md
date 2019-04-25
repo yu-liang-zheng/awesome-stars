@@ -300,6 +300,7 @@
 
 ## JavaScript 
 
+- [octotree](https://github.com/ovity/octotree) - GitHub code tree on steroids
 - [blog](https://github.com/amandakelake/blog) - think more！learn more!
 - [libpku](https://github.com/lib-pku/libpku) - 贵校课程资料民间整理
 - [chrome-plugin-demo](https://github.com/sxei/chrome-plugin-demo) - 《Chrome插件开发全攻略》配套完整Demo，欢迎clone体验
