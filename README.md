@@ -49,7 +49,7 @@
 - [sqlite](https://github.com/mackyle/sqlite) - Unofficial git mirror of SQLite sources (see link for build instructions)
 - [Atlas](https://github.com/Qihoo360/Atlas) - A high-performance and stable proxy for MySQL, it is developed by Qihoo's DBA and infrastructure team
 - [SQLAdvisor](https://github.com/Meituan-Dianping/SQLAdvisor) - 输入SQL，输出索引优化建议
-- [reading-code-of-nginx-1.9.2](https://github.com/y123456yz/reading-code-of-nginx-1.9.2) - nginx-1.9.2源码通读分析注释，带详尽函数中文分析注释以及相关函数流程调用注释，最全面的nginx源码阅读分析中文注释，更新完毕
+- [reading-code-of-nginx-1.9.2](https://github.com/y123456yz/reading-code-of-nginx-1.9.2) - nginx-1.9.2源码通读分析注释，带详尽函数中文分析注释以及相关函数流程调用注释，最全面的nginx源码阅读分析中文注释，更新完毕(nginx源码学习交流QQ群：568892619)
 - [PuTTY](https://github.com/larryli/PuTTY) - PuTTY 中文版，原 http://code.google.com/p/puttycn 项目。
 - [wcdb](https://github.com/Tencent/wcdb) - WCDB is a cross-platform database framework developed by WeChat.
 - [open-with-cmd](https://github.com/raymelon/open-with-cmd) - Command Prompt, with a pause.
@@ -59,14 +59,15 @@
 
 ## C# # 
 
-- [console](https://github.com/Microsoft/console) - Windows Console Tools
+- [WebSiteUseful](https://github.com/loremwalker/WebSiteUseful) - 🍅翻墙！冲出你的窗口，详细教程请看：https://github.com/loremwalker/fq-book
 - [shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows) - If you want to keep a secret, you must also hide it from yourself.
 
 ## C++ 
 
-- [LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) - Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）
+- [Terminal](https://github.com/SwimmingTiger/Terminal) - The new Windows Terminal, and the original Windows console host -- all in the same place!
 - [REKCARC-TSC-UHT](https://github.com/PKUanonym/REKCARC-TSC-UHT) - 清华大学计算机系课程攻略 Guidance for courses in Department of Computer Science and Technology, Tsinghua University
 - [GreenChrome](https://github.com/shuax/GreenChrome) - 增强Chrome的工具
+- [terminal](https://github.com/microsoft/terminal) - The new Windows Terminal, and the original Windows console host -- all in the same place!
 - [MMKV](https://github.com/Tencent/MMKV) - An efficient, small mobile key-value storage framework developed by WeChat. Works on iOS, Android, macOS and Windows.
 - [PhoenixGo](https://github.com/Tencent/PhoenixGo) - Go AI program which implements the AlphaGo Zero paper
 - [hardseed](https://github.com/yangyangwithgnu/hardseed) - SEX IS ZERO (0), so, who wanna be the ONE (1), aha?
@@ -106,6 +107,7 @@
 
 ## Go 
 
+- [gocron](https://github.com/ouqiang/gocron) - 定时任务管理系统
 - [openbilibili-go-common](https://github.com/swituo/openbilibili-go-common) - 🙈！🙉！🙊！我不清楚这些是啥… 道德心泛滥的麻烦出门右转关注996.icu！
 - [youjumpijump](https://github.com/faceair/youjumpijump) - ⚠️⚠️⚠️ DEPRECATED
 - [lantern](https://github.com/getlantern/lantern) - 🔴蓝灯最新版本下载 https://github.com/getlantern/download 🔴 Lantern Latest Download https://github.com/getlantern/download 🔴
@@ -146,7 +148,8 @@
 
 ## Java 
 
-- [advanced-java](https://github.com/doocs/advanced-java) - 😮 互联网 Java 工程师进阶知识完全扫盲
+- [advanced-java](https://github.com/doocs/advanced-java) - 😮 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务等领域知识
+- [LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) - Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）
 - [motan](https://github.com/weibocom/motan) - A cross-language remote procedure call(RPC) framework for rapid development of high performance distributed services.
 - [firstWebApp](https://github.com/weizidanfeng/firstWebApp) - 
 - [tij4-maven](https://github.com/gauravojha/tij4-maven) - Thinking in Java 4th Edition Souce Code - Maven project
@@ -165,12 +168,13 @@
 - [SwordOffer](https://github.com/vonzhou/SwordOffer) - &lt;剑指offer&gt; Java 实践！
 - [SpringInAction3](https://github.com/vonzhou/SpringInAction3) - Code of Spring In Action 3rd， Spring学习笔记
 - [SpringMVCTutorial](https://github.com/vonzhou/SpringMVCTutorial) - &lt;Spring MVC: a Tutorial Series&gt;(Spring MVC学习指南)
-- [sofa-rpc](https://github.com/alipay/sofa-rpc) - SOFARPC is a high-performance, high-extensibility, production-level Java RPC  framework.
+- [sofa-rpc](https://github.com/sofastack/sofa-rpc) - SOFARPC is a high-performance, high-extensibility, production-level Java RPC  framework.
 - [spring-petclinic](https://github.com/spring-projects/spring-petclinic) - A sample Spring-based application
 - [spring-mvc-showcase](https://github.com/spring-projects/spring-mvc-showcase) - Demonstrates the features of the Spring MVC web framework
 - [seckill](https://github.com/codingXiaxw/seckill) - the source code of `seckill` with development documentation :zap:
 - [Pretty-Zhihu](https://github.com/shensky711/Pretty-Zhihu) - 知乎上的看图神器，你懂的
 - [spring-in-action](https://github.com/sunweiguo/spring-in-action) - :blue_book::green_book:spring实战学习代码
+- [CS-Notes](https://github.com/CyC2018/CS-Notes) - :books:  技术面试必备基础知识、Leetcode 题解、后端面试、Java 面试、春招、秋招、操作系统、计算机网络、系统设计
 - [Java](https://github.com/mthli/Java) - 《Core Java》学习笔记。
 - [proxyee-down](https://github.com/proxyee-down-org/proxyee-down) - http下载工具，基于http代理，支持多连接分块下载
 - [JDKSourceCode1.8](https://github.com/wupeixuan/JDKSourceCode1.8) - Jdk1.8源码解析
@@ -192,7 +196,7 @@
 - [FastBootWeixin](https://github.com/FastBootWeixin/FastBootWeixin) - 基于Spring Boot的注解驱动式公众号极速开发框架，用注解重新定义公众号开发
 - [cv4j](https://github.com/imageprocessor/cv4j) - The target is to set up a high quality and real-time image process and machine learning library which is implemented in pure java. The framework can run application on java desktop and android platform.
 - [TimeLine](https://github.com/vivian8725118/TimeLine) - 瀑布流式的时间轴
-- [algorithms](https://github.com/nibnait/algorithms) - 《剑指Offer》、《CSAPP》、《算法》、牛课堂、
+- [algorithms](https://github.com/nibnait/algorithms) - 《剑指Offer》、《程序员代码面试指南》
 - [M-Volunteer-SpringBoot](https://github.com/oneone1995/M-Volunteer-SpringBoot) - 美志愿APP服务端，客户端在https://github.com/learner1999/M-Volunteer
 - [mybatis-plus](https://github.com/baomidou/mybatis-plus) - An powerful enhanced toolkit of MyBatis for simplify development
 - [mybatis](https://github.com/zhisheng17/mybatis) - Mybatis study
@@ -299,6 +303,7 @@
 
 ## JavaScript 
 
+- [staticgen](https://github.com/netlify/staticgen) - StaticGen.com, A leaderboard of top open-source static site generators
 - [octotree](https://github.com/ovity/octotree) - GitHub code tree on steroids
 - [blog](https://github.com/amandakelake/blog) - think more！learn more!
 - [libpku](https://github.com/lib-pku/libpku) - 贵校课程资料民间整理
@@ -363,8 +368,8 @@
 - [js-sdk](https://github.com/qiniu/js-sdk) - 基于七牛 API 开发的前端 JavaScript SDK
 - [JSON-js](https://github.com/douglascrockford/JSON-js) - JSON in JavaScript
 - [jstree](https://github.com/vakata/jstree) - jquery tree plugin
-- [leetcode](https://github.com/hanzichi/leetcode) - :pencil2: LeetCode solutions with JavaScript
-- [hanzichi.github.io](https://github.com/hanzichi/hanzichi.github.io) - :fire: All my demos that can be viewed on the page
+- [leetcode](https://github.com/lessfish/leetcode) - :pencil2: LeetCode solutions with JavaScript
+- [lessfish.github.io](https://github.com/lessfish/lessfish.github.io) - :fire: All my demos that can be viewed on the page
 - [raymelon.github.io](https://github.com/raymelon/raymelon.github.io) - My website, with heart. :hearts:  :scroll:
 - [jqGrid](https://github.com/tonytomov/jqGrid) - jQuery grid plugin
 - [vuejs-learn](https://github.com/bhnddowinf/vuejs-learn) - (vue.js official website tutorials ，contains video , codes, baudi yun, youtube) 网路上有很多 VUE 综合应用的视频，但大部份的视频 ，都当你已经了解官网 所以讲的节奏难免偏快。 此视频(都是上代码)，以官网为重，将官网的观念，以视频搭配代码，实际演示。 如果官网有看不懂的地方，比对一下，视频跟代码，就会了解了。 减少你摸索的时间。(註：mvvm 的框架，不管是 ng , react, vue, avalonjs, 都是好的框架，而有经验的前端，至少都会两套以上的 mvvm。)
@@ -372,7 +377,7 @@
 - [JavaScript30](https://github.com/soyaine/JavaScript30) - 有关 @wesbos 的课程 JavaScript-30 的中文练习指南
 - [translation-spring-mvc-4-documentation](https://github.com/linesh-simplicity/translation-spring-mvc-4-documentation) - Spring MVC 4.2.4 RELEASE 中文文档完整翻译稿
 - [yarn](https://github.com/yarnpkg/yarn) - 📦🐈 Fast, reliable, and secure dependency management.
-- [underscore-analysis](https://github.com/hanzichi/underscore-analysis) - underscore-1.8.3.js 源码解读 & 系列文章（完 :heavy_exclamation_mark:）
+- [underscore-analysis](https://github.com/lessfish/underscore-analysis) - underscore-1.8.3.js 源码解读 & 系列文章（完）
 - [blog](https://github.com/smallpath/blog) - 前后端分离+服务端渲染的博客系统. 基于Vue2、Koa2、MongoDB、Redis
 - [why-did-you-update](https://github.com/garbles/why-did-you-update) - :boom: Puts your console on blast when React is making unnecessary updates.
 - [Mricode.Pagination](https://github.com/mricle/Mricode.Pagination) - jQuery分页插件
@@ -428,6 +433,7 @@
 
 ## Jupyter Notebook 
 
+- [Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
 - [the-craft-of-selfteaching](https://github.com/selfteaching/the-craft-of-selfteaching) - One has no future if one couldn't teach themself.
 
 ## Kotlin 
@@ -460,6 +466,8 @@
 
 ## Others 
 
+- [redis-mindmap](https://github.com/Weiwf/redis-mindmap) - 通过思维导图整理redis的重要知识点
+- [git-tips](https://github.com/jaywcjlove/git-tips) - 这里是我的笔记，记录一些git常用和一些记不住的命令。
 - [awesome-stars](https://github.com/maguowei/awesome-stars) - Awesome List of my own!
 - [DMCA-takedown](https://github.com/closebilibili/DMCA-takedown) - For our loved Bilibili
 - [support.996.ICU](https://github.com/MSWorkers/support.996.ICU) - Microsoft and GitHub Workers Support 996.ICU
@@ -468,7 +476,6 @@
 - [SJTU-Courses](https://github.com/CoolPhilChen/SJTU-Courses) - 上海交通大学课程资料分享
 - [opensource](https://github.com/programthink/opensource) - 【编程随想】收藏的开源项目清单
 - [Fuck-XueXiQiangGuo](https://github.com/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo) - 学习强国 懒人刷分工具 自动学习
-- [WebSiteUseful](https://github.com/loremwalker/WebSiteUseful) - 🍅翻墙！冲出你的窗口，详细教程请看：https://github.com/loremwalker/fq-book
 - [SpringBoot-Learning](https://github.com/dyc87112/SpringBoot-Learning) - Spring Boot基础教程，Spring Boot 2.x版本连载中！！！
 - [python_interview_question](https://github.com/kenwoodjw/python_interview_question) - 关于python的面试题
 - [awesome-hyper](https://github.com/bnb/awesome-hyper) - 🖥 Delightful Hyper plugins, themes, and resources
@@ -483,7 +490,6 @@
 - [architect-awesome](https://github.com/xingshaocheng/architect-awesome) - 后端架构师技术图谱
 - [chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么
 - [tj4-mind](https://github.com/kailuncen/tj4-mind) - 
-- [CS-Notes](https://github.com/CyC2018/CS-Notes) - :books:  技术面试必备基础知识
 - [hosts](https://github.com/googlehosts/hosts) - 镜像：https://coding.net/u/scaffrey/p/hosts/git
 - [new-pac](https://github.com/Alvin9999/new-pac) - 
 - [JCFInternals](https://github.com/CarpenterLee/JCFInternals) - 深入理解Java集合框架
@@ -572,7 +578,6 @@
 - [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [awesome-courses](https://github.com/prakhar1989/awesome-courses) - :books: List of awesome university courses for learning Computer Science!
 - [show-me-the-code](https://github.com/Yixiaohan/show-me-the-code) - Python 练习册，每天一个小程序
-- [EasyJava](https://github.com/it-interview/EasyJava) - Deprecated 2018年 Java面试题整理
 - [ResumeSample](https://github.com/geekcompany/ResumeSample) - Resume template for Chinese programmers . 程序员简历模板系列。包括PHP程序员简历模板、iOS程序员简历模板、Android程序员简历模板、Web前端程序员简历模板、Java程序员简历模板、C/C++程序员简历模板、NodeJS程序员简历模板、架构师简历模板以及通用程序员简历模板
 - [document-style-guide](https://github.com/ruanyf/document-style-guide) - 中文技术文档的写作规范
 - [jstraining](https://github.com/ruanyf/jstraining) - 全栈工程师培训材料
@@ -603,6 +608,8 @@
 
 ## Python 
 
+- [geektime_dl](https://github.com/jachinlin/geektime_dl) - 把极客时间装进Kindle
+- [C--Compiler](https://github.com/LiuChangFreeman/C--Compiler) - C--compiler which implements LL(1)\LR(0)\SLR\LR(1) and semantic analysis and MIPS generate
 - [starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes) - 🌈谷粒-Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类~  ChromePluginHeroes, Write a Chinese manual for the excellent Chrome plugin, let the Chrome plugin heroes benefit the human~
 - [Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - A list of awesome applications, software, tools and other materials for Linux distros.
@@ -670,7 +677,7 @@
 - [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
 - [zshguide](https://github.com/goreliu/zshguide) - Zsh 开发指南
 - [wsl-terminal](https://github.com/goreliu/wsl-terminal) - Terminal emulator for Windows Subsystem for Linux (WSL)
-- [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) - A delightful community-driven (with 1,300+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
+- [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) - 🙃 A delightful community-driven (with 1,300+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 - [Developer-Zero-To-Mastery](https://github.com/wx-chevalier/Developer-Zero-To-Mastery) - :books: To Be Professional Developer From Zero To Mastery, Interactive MindMap, RoadMap(Learning Path/Interview Questions), xCompass, Weekly for Developer, to Learn Everything in ITCS  :dizzy: 程序员的技术视野、知识管理与职业规划，提高个人与团队的研发效能
 - [programmer-job-blacklist](https://github.com/shengxinjing/programmer-job-blacklist) - :see_no_evil:程序员找工作黑名单，换工作和当技术合伙人需谨慎啊 更新有赞
 - [intellij-colors-solarized](https://github.com/jkaving/intellij-colors-solarized) - Solarized Colorscheme for IntelliJ IDEA
@@ -706,6 +713,7 @@
 
 ## Vue 
 
+- [PicGo](https://github.com/Molunerfinn/PicGo) - :rocket:A simple & beautiful tool for pictures uploading built by electron-vue
 - [vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) - :tada: A magical vue admin                                                                http://panjiachen.github.io/vue-element-admin
 - [mi-by-vue](https://github.com/wendaosanshou/mi-by-vue) - 使用vue.js模仿小米官网
 - [douban](https://github.com/jeneser/douban) - Awesome douban DEMO created with Vue2.x + Vuex + Vue-router + Superagent
