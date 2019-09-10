@@ -45,6 +45,7 @@
 
 ## C 
 
+- [zju-icicles](https://github.com/QSCTech/zju-icicles) - 浙江大学课程攻略共享计划
 - [ttyd](https://github.com/tsl0922/ttyd) - Share your terminal over the web
 - [sqlite](https://github.com/mackyle/sqlite) - Unofficial git mirror of SQLite sources (see link for build instructions)
 - [Atlas](https://github.com/Qihoo360/Atlas) - A high-performance and stable proxy for MySQL, it is developed by Qihoo's DBA and infrastructure team
@@ -59,13 +60,12 @@
 
 ## C# # 
 
-- [WebSiteUseful](https://github.com/loremwalker/WebSiteUseful) - 🍅翻墙！冲出你的窗口，详细教程请看：https://github.com/loremwalker/fq-book
+- [w3-goto-world](https://github.com/hoodiearon/w3-goto-world) - 🍅冲出你的窗口，free ss/ssr/vmess分享、IPFS、暗网及蹭网教程、Git镜像等其他资源存储库
 - [shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows) - If you want to keep a secret, you must also hide it from yourself.
 
 ## C++ 
 
 - [Terminal](https://github.com/SwimmingTiger/Terminal) - The new Windows Terminal, and the original Windows console host -- all in the same place!
-- [REKCARC-TSC-UHT](https://github.com/PKUanonym/REKCARC-TSC-UHT) - 清华大学计算机系课程攻略 Guidance for courses in Department of Computer Science and Technology, Tsinghua University
 - [GreenChrome](https://github.com/shuax/GreenChrome) - 增强Chrome的工具
 - [terminal](https://github.com/microsoft/terminal) - The new Windows Terminal, and the original Windows console host -- all in the same place!
 - [MMKV](https://github.com/Tencent/MMKV) - An efficient, small mobile key-value storage framework developed by WeChat. Works on iOS, Android, macOS and Windows.
@@ -79,6 +79,7 @@
 
 ## CSS 
 
+- [Backend-Interview-Guide](https://github.com/CyC2018/Backend-Interview-Guide) - 💯后端面试进阶指南
 - [Chromium_doc_zh](https://github.com/ahangchen/Chromium_doc_zh) - Chromium中文文档，学习google家的架构
 - [book](https://github.com/SystemsApproach/book) - Meta-data and Makefile needed to build the book. Main starting point.
 - [generator-web](https://github.com/justdojava/generator-web) - 
@@ -107,28 +108,27 @@
 
 ## Go 
 
+- [xuperunion](https://github.com/xuperchain/xuperunion) - A highly flexible blockchain architecture with great transaction performance.
 - [gocron](https://github.com/ouqiang/gocron) - 定时任务管理系统
 - [openbilibili-go-common](https://github.com/swituo/openbilibili-go-common) - 🙈！🙉！🙊！我不清楚这些是啥… 道德心泛滥的麻烦出门右转关注996.icu！
 - [youjumpijump](https://github.com/faceair/youjumpijump) - ⚠️⚠️⚠️ DEPRECATED
-- [lantern](https://github.com/getlantern/lantern) - 🔴蓝灯最新版本下载 https://github.com/getlantern/download 🔴 Lantern Latest Download https://github.com/getlantern/download 🔴
+- [lantern](https://github.com/getlantern/lantern) - 蓝灯Windows下载 https://raw.githubusercontent.com/getlantern/lantern-binaries/master/lantern-installer.exe 蓝灯安卓下载 https://raw.githubusercontent.com/getlantern/lantern-binaries/master/lantern-installer.apk
 - [httplab](https://github.com/gchaincl/httplab) - The interactive web server
 
 ## HTML 
 
 - [SecurityWorker](https://github.com/qiaozi-tech/SecurityWorker) - The best javascript code protection solution ever.
-- [articles](https://github.com/phodal/articles) - Article Publish in Wechat & Toutiao
 - [gitstars](https://github.com/Monine/gitstars) - Github Stars Repositories Manager
-- [zju-icicles](https://github.com/QSCTech/zju-icicles) - 浙江大学课程攻略共享计划
+- [REKCARC-TSC-UHT](https://github.com/PKUanonym/REKCARC-TSC-UHT) - 清华大学计算机系课程攻略 Guidance for courses in Department of Computer Science and Technology, Tsinghua University
 - [JavaWebCoreNote](https://github.com/fengbird/JavaWebCoreNote) - 为Java初学者提供的快速对javaweb核心阶段进行学习、复习的笔记
 - [linux-command](https://github.com/jaywcjlove/linux-command) - Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux
 - [M-Volunteer](https://github.com/learner1999/M-Volunteer) - 
 - [blogChat](https://github.com/barretlee/blogChat) - Chat room source code for Barret Lee's Personal Blog.
 - [java-bible](https://github.com/biezhi/java-bible) - :banana: 我的技术摘要
-- [blog](https://github.com/jiajunhuang/blog) - Jiajun的编程思考
+- [blog](https://github.com/jiajunhuang/blog) - Jiajun的编程随想
 - [enbandari.github.io](https://github.com/enbandari/enbandari.github.io) - 这是 www.kotliner.cn 页面仓库
 - [theme](https://github.com/project-store/theme) - 收集的bootstrap主题页面，前台都有，欢迎使用
 - [JoeCao.github.io](https://github.com/JoeCao/JoeCao.github.io) - 
-- [FE_Note](https://github.com/li-xinyang/FE_Note) - 📒 Front-end Development Notebook From Start to Finish!  (Simplified Chinese)
 - [en.javascript.info](https://github.com/javascript-tutorial/en.javascript.info) - Modern JavaScript Tutorial
 - [fe](https://github.com/phodal/fe) - 《我的职业是前端工程师》 - Ebook：I'm a FrontEnd Developer
 - [bootstrap-table-examples](https://github.com/wenzhixin/bootstrap-table-examples) - Bootstrap table examples
@@ -148,12 +148,14 @@
 
 ## Java 
 
-- [advanced-java](https://github.com/doocs/advanced-java) - 😮 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务等领域知识
+- [Java](https://github.com/TheAlgorithms/Java) - All Algorithms implemented in Java
+- [algs4](https://github.com/kevin-wayne/algs4) - Algorithms, 4th edition textbook code and libraries
+- [advanced-java](https://github.com/doocs/advanced-java) - 😮 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务等领域知识，后端同学必看，前端同学也可学习
 - [LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) - Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）
 - [motan](https://github.com/weibocom/motan) - A cross-language remote procedure call(RPC) framework for rapid development of high performance distributed services.
 - [firstWebApp](https://github.com/weizidanfeng/firstWebApp) - 
 - [tij4-maven](https://github.com/gauravojha/tij4-maven) - Thinking in Java 4th Edition Souce Code - Maven project
-- [SpringAll](https://github.com/wuyouzhuguli/SpringAll) - 循序渐进，学习Spring Boot、Spring Boot & Shiro、Spring Cloud和Spring Security，博客Spring系列源码
+- [SpringAll](https://github.com/wuyouzhuguli/SpringAll) - 循序渐进，学习Spring Boot、Spring Boot & Shiro、Spring Cloud、Spring Security & Spring Security OAuth2，博客Spring系列源码
 - [notes](https://github.com/loveincode/notes) - 📚A Java back-end engineer's study notes   https://loveincode.github.io/notes
 - [JavaGuide](https://github.com/Snailclimb/JavaGuide) - 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。
 - [cosin](https://github.com/chatopera/cosin) - 🌲  春松客服: 全渠道 智能 客服
@@ -161,7 +163,7 @@
 - [pinyougou](https://github.com/fengbird/pinyougou) - 品优购商城项目
 - [Guns](https://github.com/stylefeng/Guns) - Guns基于SpringBoot 2，致力于做更简洁的后台管理系统，完美整合springmvc + shiro + mybatis-plus + beetl!Guns项目代码简洁，注释丰富，上手容易，同时Guns包含许多基础模块(用户管理，角色管理，部门管理，字典管理等10个模块)，可以直接作为一个后台管理系统的脚手架!
 - [JCSprout](https://github.com/crossoverJie/JCSprout) - 👨‍🎓 Java Core Sprout : basic, concurrent, algorithm
-- [canal](https://github.com/alibaba/canal) - 阿里巴巴mysql数据库binlog的增量订阅&消费组件 。阿里云DRDS( https://www.aliyun.com/product/drds )、阿里巴巴TDDL 二级索引、小表复制powerd by canal. Aliyun Data Lake Analytics https://www.aliyun.com/product/datalakeanalytics powered by canal
+- [canal](https://github.com/alibaba/canal) - 阿里巴巴 MySQL binlog 增量订阅&消费组件
 - [springmvc-2ed](https://github.com/pauldeck/springmvc-2ed) - Examples for "Spring MVC: A Tutorial (Second Edition)" book
 - [SpringMvcStepByStep](https://github.com/in28minutes/SpringMvcStepByStep) - Spring MVC Tutorial for beginners - In 25 Small Steps
 - [vjtools](https://github.com/vipshop/vjtools) - The vip.com's java coding standard, libraries and tools
@@ -174,7 +176,7 @@
 - [seckill](https://github.com/codingXiaxw/seckill) - the source code of `seckill` with development documentation :zap:
 - [Pretty-Zhihu](https://github.com/shensky711/Pretty-Zhihu) - 知乎上的看图神器，你懂的
 - [spring-in-action](https://github.com/sunweiguo/spring-in-action) - :blue_book::green_book:spring实战学习代码
-- [CS-Notes](https://github.com/CyC2018/CS-Notes) - :books:  技术面试必备基础知识、Leetcode 题解、后端面试、Java 面试、春招、秋招、操作系统、计算机网络、系统设计
+- [CS-Notes](https://github.com/CyC2018/CS-Notes) - :books: Tech Interview Guide 技术面试必备基础知识、Leetcode 题解、Java、C++、Python、后端面试、操作系统、计算机网络、系统设计
 - [Java](https://github.com/mthli/Java) - 《Core Java》学习笔记。
 - [proxyee-down](https://github.com/proxyee-down-org/proxyee-down) - http下载工具，基于http代理，支持多连接分块下载
 - [JDKSourceCode1.8](https://github.com/wupeixuan/JDKSourceCode1.8) - Jdk1.8源码解析
@@ -189,7 +191,7 @@
 - [spring-in-action-4-samples](https://github.com/habuma/spring-in-action-4-samples) - 
 - [shopping-management-system](https://github.com/zhanglei-workspace/shopping-management-system) - 该项目为多个小项目的集合（持续更新中...）。内容类似淘宝、京东等网购管理系统以及图书管理、超市管理等系统。目的在于便于Java初级爱好者在学习完某一部分Java知识后有一个合适的项目锻炼、运用所学知识，完善知识体系。适用人群：Java基础到入门的爱好者。
 - [blade](https://github.com/lets-blade/blade) - :rocket: Lightning fast and elegant mvc framework for Java8
-- [pinpoint](https://github.com/naver/pinpoint) - Pinpoint is an open source APM (Application Performance Management) tool for large-scale distributed systems written in Java.
+- [pinpoint](https://github.com/naver/pinpoint) - APM, (Application Performance Management) tool for large-scale distributed systems written in Java.
 - [EasyTransaction](https://github.com/QNJR-GROUP/EasyTransaction) - A distribute transaction solution（分布式事务） unified the usage of TCC , SAGA ,FMT (seata/fescar AutoCompensation)， reliable message, compensate and so on;
 - [jigsaw-payment](https://github.com/jigsaw-projects/jigsaw-payment) - jigsaw payment 支付系统
 - [WeatherSpider](https://github.com/zifangsky/WeatherSpider) - 天气爬虫（全国城镇天气自动定时抓取更新，并开放RESTful查询接口），附带代理IP池定时更新并检测其可用性
@@ -200,7 +202,7 @@
 - [M-Volunteer-SpringBoot](https://github.com/oneone1995/M-Volunteer-SpringBoot) - 美志愿APP服务端，客户端在https://github.com/learner1999/M-Volunteer
 - [mybatis-plus](https://github.com/baomidou/mybatis-plus) - An powerful enhanced toolkit of MyBatis for simplify development
 - [mybatis](https://github.com/zhisheng17/mybatis) - Mybatis study
-- [incubator-dubbo](https://github.com/apache/incubator-dubbo) - Apache Dubbo (incubating) is a high-performance, java based, open source RPC framework.
+- [dubbo](https://github.com/apache/dubbo) - Apache Dubbo is a high-performance, java based, open source RPC framework.
 - [XSnow](https://github.com/xiaoyaoyou1212/XSnow) - 💮基于RxJava2+Retrofit2精心打造的Android基础框架，包含网络、上传、下载、缓存、事件总线、权限管理、数据库、图片加载，基本都是项目中必用功能，每个模块充分解耦，可自由拓展。
 - [Leisure](https://github.com/MummyDing/Leisure) - Leisure is an Android App containing Zhihu Daily,Guokr Scientific,XinhuaNet News and Douban Books
 - [xxl-job](https://github.com/xuxueli/xxl-job) - A lightweight distributed task scheduling framework.（分布式任务调度平台XXL-JOB）
@@ -210,7 +212,7 @@
 - [java8-study](https://github.com/jasonGeng88/java8-study) - JAVA8 学习（based on 《JAVA 8 in Practice》）
 - [commonmark-java](https://github.com/atlassian/commonmark-java) - Java library for parsing and rendering CommonMark (Markdown)
 - [webporter](https://github.com/brianway/webporter) - 基于 webmagic 的 Java 爬虫应用
-- [vavr](https://github.com/vavr-io/vavr) - VΛVΓ (Vavr, formerly called Javaslang) is a non-commercial, non-profit object-functional library that runs with Java 8+. It aims to reduce the lines of code and increase code quality.
+- [vavr](https://github.com/vavr-io/vavr) - VAVR (formerly called Javaslang) is a non-commercial, non-profit object-functional library that runs with Java 8+. It aims to reduce the lines of code and increase code quality.
 - [SmartCropper](https://github.com/pqpo/SmartCropper) - 🔥 A library for cropping image in a smart way that can identify the border and correct the cropped image.    智能图片裁剪框架。自动识别边框，手动调节选区，使用透视变换裁剪并矫正选区；适用于身份证，名片，文档等照片的裁剪。
 - [CustomerManagement](https://github.com/codingXiaxw/CustomerManagement) - a simple customer management system using MVC model with development ducumentation :bowtie:
 - [spring-mvc-mini](https://github.com/hot13399/spring-mvc-mini) - Spring MVC Example Project, light weight, no Database
@@ -228,7 +230,7 @@
 - [dcevm](https://github.com/dcevm/dcevm) - Dynamic Code Evolution VM for Java 7/8
 - [Android-Application-ZJB](https://github.com/pinguo-sunjianfei/Android-Application-ZJB) - 创业失败产品-说起来都是泪
 - [coding-guide_i3geek](https://github.com/yangengzhe/coding-guide_i3geek) - 一名JAVA程序员，将自己的编程学习之路做以总结并进行分享。内容包括但不限于数据结构、算法、数据库、操作系统、计算机网络等多方面
-- [symphony](https://github.com/b3log/symphony) - 🎶 一款用 Java 实现的现代化社区（论坛/BBS/社交网络/博客）平台。https://hacpai.com
+- [symphony](https://github.com/b3log/symphony) - 🎶 一款用 Java 实现的现代化社区（论坛/BBS/社交网络/博客）平台。
 - [AndroidNote](https://github.com/GcsSloop/AndroidNote) - 安卓学习笔记
 - [shiro](https://github.com/apache/shiro) - Mirror of Apache Shiro
 - [Intellij-Colors-Sublime-Monokai](https://github.com/y3sh/Intellij-Colors-Sublime-Monokai) - Syntax color theme for JetBrains products inspired by Sublime Text's Monokai Theme
@@ -262,7 +264,7 @@
 - [Java](https://github.com/DuGuQiuBai/Java) - 27天成为Java大神
 - [GeekNews](https://github.com/codeestX/GeekNews) - :books:A pure reading App based on Material Design + MVP + RxJava2 + Retrofit + Dagger2 + Realm + Glide
 - [AisenWeiBo](https://github.com/wangdan/AisenWeiBo) - 新浪微博第三方Android客户端
-- [github-api](https://github.com/kohsuke/github-api) - Java API for GitHub
+- [github-api](https://github.com/github-api/github-api) - Java API for GitHub
 - [spring](https://github.com/mybatis/spring) - Spring integration for MyBatis 3
 - [mybatis-3](https://github.com/mybatis/mybatis-3) - MyBatis SQL mapper framework for Java
 - [gitblit](https://github.com/gitblit/gitblit) - pure java git solution
@@ -281,7 +283,7 @@
 - [spring-boot-admin](https://github.com/codecentric/spring-boot-admin) - Admin UI for administration of spring boot applications
 - [spring-boot-admin](https://github.com/smile-java/spring-boot-admin) - Admin UI for administration of spring boot applications
 - [java-design-patterns](https://github.com/iluwatar/java-design-patterns) - Design patterns implemented in Java
-- [solo](https://github.com/b3log/solo) - 🎸 一款小而美的博客系统，专为程序员设计。https://hacpai.com/tag/solo
+- [solo](https://github.com/b3log/solo) - 🎸 一款小而美的博客系统，专为程序员设计。
 - [datastructure](https://github.com/buptdavid/datastructure) - 用Java实现的数据结构暨算法，同时对其进行了测试
 - [fastjson](https://github.com/alibaba/fastjson) - :bullettrain_side: A fast JSON parser/generator for Java. (Aliyun Data Lake Analytics https://www.aliyun.com/product/datalakeanalytics powered by fastjson )
 - [morphia](https://github.com/MorphiaOrg/morphia) - MongoDB object-document mapper in Java based on https://github.com/mongodb/mongo-java-driver
@@ -297,16 +299,17 @@
 - [ApiManager](https://github.com/EhsanTang/ApiManager) - CRAP - 开源API接口管理平台 | 完全开源、免费使用的API接口管理系统、BUG管理系统：API接口管理、文档管理、数据库表管理、接口调试、浏览器调试插件、导出word&pdf接口…..，采用SpringMVC + MyBatis + Lucene + Bootstrap + Angularjs + Iconfont + Guava Cache ，线上使用地址：http://api.crap.cn
 - [guice](https://github.com/google/guice) - Guice (pronounced 'juice') is a lightweight dependency injection framework for Java 6 and above, brought to you by Google.
 - [apollo](https://github.com/ctripcorp/apollo) - Apollo（阿波罗）是携程框架部门研发的分布式配置中心，能够集中化管理应用不同环境、不同集群的配置，配置修改后能够实时推送到应用端，并且具备规范的权限、流程治理等特性，适用于微服务配置管理场景。
-- [okhttp](https://github.com/square/okhttp) - An HTTP+HTTP/2 client for Android and Java applications.
+- [okhttp](https://github.com/square/okhttp) - An HTTP client for Android, Kotlin, and Java.
 - [interviews](https://github.com/kdn251/interviews) - Everything you need to know to get the job.
 - [e](https://github.com/fuhoujun/e) - 框架采用微服务的设计思想，而且各工程易分易合 此框架采用前后台分开，前后台都可以单独部署，前端采用轻量级的扁平化设计（html+javascript+Bootstrap）, 会自动针对不同的屏幕尺寸调整页面，使其在各个尺寸的屏幕上表现良好。 后端采用Spring boot、 Spring Cloud，不需要部署WAR 文件，可直接运行jar文件。 系统权限框架采用spring-security oauth2，实现前后台权限校验，权限实现了用户授权和客户端授权。 持久层采用JPA ，能够很好的适应不同数据库，并实现注解式动态查询功能。 数据响应该采用json格式。 服务采用REST形式，能够方便的与手机app进行对接，集成swagger能够在线查看RESTAPI 文档和在线测试服务接口 支持单点登录，可以多系统进行菜单集成，形成一个portal。 支持高并发和水平扩展，支持Session的统一存储。 项目采用gradle构建，能够方便的将各项目进行按需组装。
 
 ## JavaScript 
 
+- [Surfingkeys](https://github.com/brookhong/Surfingkeys) - Map your keys for web surfing, expand your browser with javascript and keyboard.
 - [staticgen](https://github.com/netlify/staticgen) - StaticGen.com, A leaderboard of top open-source static site generators
 - [octotree](https://github.com/ovity/octotree) - GitHub code tree on steroids
 - [blog](https://github.com/amandakelake/blog) - think more！learn more!
-- [libpku](https://github.com/lib-pku/libpku) - 贵校课程资料民间整理
+- [source-code](https://github.com/fuck-xuexiqiangguo/source-code) - 源代码（经过了压缩）
 - [chrome-plugin-demo](https://github.com/sxei/chrome-plugin-demo) - 《Chrome插件开发全攻略》配套完整Demo，欢迎clone体验
 - [stylus](https://github.com/openstyles/stylus) - Stylus - Userstyles Manager
 - [violentmonkey](https://github.com/violentmonkey/violentmonkey) - Violentmonkey provides userscripts support for browsers. It works on browsers with WebExtensions support.
@@ -315,7 +318,6 @@
 - [google-access-helper](https://github.com/haotian-wang/google-access-helper) - 谷歌访问助手破解版
 - [git-history](https://github.com/pomber/git-history) - Quickly browse the history of a file from any git repository
 - [ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps
-- [windows95](https://github.com/felixrieseberg/windows95) - 💩🚀 Windows 95 in Electron. Runs on macOS, Linux, and Windows.
 - [renren-security](https://github.com/renrenio/renren-security) - 采用Spring、MyBatis、Shiro框架，开发的一套权限系统，极低门槛，拿来即用。设计之初，就非常注重安全性，为企业系统保驾护航，让一切都变得如此简单。【QQ群：324780204、145799952】
 - [simplenin](https://github.com/gigamailer/simplenin) - 
 - [vant-weapp](https://github.com/youzan/vant-weapp) - 轻量、可靠的小程序 UI 组件库
@@ -334,7 +336,7 @@
 - [animating-resume](https://github.com/jirengu-inc/animating-resume) - 饥人谷出品：一个会动的简历。欢迎 Fork ➡️
 - [neos-ui](https://github.com/neos/neos-ui) - Neos CMS UI written in ReactJS with Immutable data structures.
 - [query-string](https://github.com/sindresorhus/query-string) - Parse and stringify URL query strings
-- [localResizeIMG](https://github.com/think2011/localResizeIMG) - 前端本地客户端压缩图片，兼容IOS，Android，PC、自动按需加载文件
+- [localResizeIMG](https://github.com/think2011/localResizeIMG) - 🔥 前端本地客户端压缩图片，兼容IOS，Android，PC、自动按需加载文件
 - [jumpserver](https://github.com/jumpserver/jumpserver) - Jumpserver是全球首款完全开源的堡垒机，是符合 4A 的专业运维审计系统。
 - [shaka-player](https://github.com/google/shaka-player) - JavaScript player library / DASH & HLS client / MSE-EME player
 - [framework7](https://github.com/framework7io/framework7) - Full featured HTML framework for building iOS & Android apps
@@ -361,15 +363,15 @@
 - [blog](https://github.com/zhiqiang21/blog) - 记录前端开发日常点滴。为梦想Coding...
 - [SUI-Mobile](https://github.com/sdc-alibaba/SUI-Mobile) - SUI Mobile (MSUI)是由阿里巴巴国际UED前端出品的移动端UI库，轻量精美
 - [jquery-cookie](https://github.com/carhartl/jquery-cookie) - No longer maintained, superseded by JS Cookie:
-- [bootstrap-table](https://github.com/wenzhixin/bootstrap-table) - An extended table to integration with some of the most widely used CSS frameworks. (Supports Bootstrap, Semantic UI, Bulma, Material Design, Foundation)
+- [bootstrap-table](https://github.com/wenzhixin/bootstrap-table) - An extended table to integration with some of the most widely used CSS frameworks. (Supports Bootstrap, Semantic UI, Bulma, Material Design, Foundation, Vue.js)
 - [nice-validator](https://github.com/niceue/nice-validator) - Simple, smart and pleasant validation solution.
-- [codelf](https://github.com/unbug/codelf) - Search over projects from Github, Bitbucket, Google Code, Codeplex, Sourceforge, Fedora Project, GitLab to find real-world usage variable names
+- [codelf](https://github.com/unbug/codelf) - A search tool helps dev to solve the naming variable/function name problem.
 - [vscode-codelf](https://github.com/unbug/vscode-codelf) - 请不要在这加星🌟和提 issue，请移步主 repo 的 GitHub https://github.com/unbug/codelf
 - [js-sdk](https://github.com/qiniu/js-sdk) - 基于七牛 API 开发的前端 JavaScript SDK
 - [JSON-js](https://github.com/douglascrockford/JSON-js) - JSON in JavaScript
 - [jstree](https://github.com/vakata/jstree) - jquery tree plugin
 - [leetcode](https://github.com/lessfish/leetcode) - :pencil2: LeetCode solutions with JavaScript
-- [lessfish.github.io](https://github.com/lessfish/lessfish.github.io) - :fire: All my demos that can be viewed on the page
+- [lessfish.github.io](https://github.com/lessfish/lessfish.github.io) - :fire: all my static demos from 2013 - now
 - [raymelon.github.io](https://github.com/raymelon/raymelon.github.io) - My website, with heart. :hearts:  :scroll:
 - [jqGrid](https://github.com/tonytomov/jqGrid) - jQuery grid plugin
 - [vuejs-learn](https://github.com/bhnddowinf/vuejs-learn) - (vue.js official website tutorials ，contains video , codes, baudi yun, youtube) 网路上有很多 VUE 综合应用的视频，但大部份的视频 ，都当你已经了解官网 所以讲的节奏难免偏快。 此视频(都是上代码)，以官网为重，将官网的观念，以视频搭配代码，实际演示。 如果官网有看不懂的地方，比对一下，视频跟代码，就会了解了。 减少你摸索的时间。(註：mvvm 的框架，不管是 ng , react, vue, avalonjs, 都是好的框架，而有经验的前端，至少都会两套以上的 mvvm。)
@@ -398,7 +400,7 @@
 - [seajs](https://github.com/seajs/seajs) - A Module Loader for the Web
 - [cropper](https://github.com/fengyuanchen/cropper) - A simple jQuery image cropping plugin.
 - [mama2](https://github.com/zythum/mama2) - 妈妈计划-众人拾柴火焰高
-- [ava](https://github.com/avajs/ava) - 🚀 Testing can be a drag. AVA helps you get it done.
+- [ava](https://github.com/avajs/ava) - 🚀 JavaScript test runner
 - [gitbook](https://github.com/GitbookIO/gitbook) - 📝 Modern documentation format and toolchain using Git and Markdown
 - [react-admin](https://github.com/marmelab/react-admin) - A frontend Framework for building admin applications running in the browser on top of REST/GraphQL APIs, using ES6, React and Material Design
 - [react-native-full-example](https://github.com/liumingmusic/react-native-full-example) - 第一个完整的react-native项目。包括服务端和移动端两部分。服务端使用express+bootstrap进行搭建，主要功能有登录、退出、模块选择、查看、修改、删除、分页等后台管理的基本功能；移动端主要用到组件View、Text、Image、ScrollView、ListView等常用的组件，也使用了第三方的地图服务(高德地图)，作为初学者。是一个很好的学习案例。
@@ -419,7 +421,7 @@
 - [hexo](https://github.com/hexojs/hexo) - A fast, simple & powerful blog framework, powered by Node.js.
 - [AndroidInterview-Q-A](https://github.com/JackyAndroid/AndroidInterview-Q-A) - The top Internet companies android interview questions and answers
 - [es6tutorial](https://github.com/ruanyf/es6tutorial) - 《ECMAScript 6入门》是一本开源的 JavaScript 语言教程，全面介绍 ECMAScript 6 新增的语法特性。
-- [http-server](https://github.com/indexzero/http-server) - a simple zero-configuration command-line http server
+- [http-server](https://github.com/http-party/http-server) - a simple zero-configuration command-line http server
 - [fks](https://github.com/JacksonTian/fks) - 前端技能汇总 Frontend Knowledge Structure
 - [500lines](https://github.com/aosabook/500lines) - 500 Lines or Less
 - [unfetch](https://github.com/developit/unfetch) - 🐕 Bare minimum fetch polyfill in 500 bytes.
@@ -428,7 +430,6 @@
 - [Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic SVG, font, and CSS toolkit
 - [bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 - [jeesite](https://github.com/thinkgem/jeesite) - JeeSite 是一个企业信息化开发基础平台，Java企业应用开源框架，Java EE（J2EE）快速开发框架，使用经典技术组合（Spring、Spring MVC、Apache Shiro、MyBatis、Bootstrap UI），包括核心模块如：组织机构、角色用户、权限授权、数据权限、内容管理、工作流等。
-- [jQuery-File-Upload](https://github.com/blueimp/jQuery-File-Upload) - File Upload widget with multiple file selection, drag&drop support, progress bar, validation and preview images, audio and video for jQuery. Supports cross-domain, chunked and resumable file uploads. Works with any server-side platform (Google App Engine, PHP, Python, Ruby on Rails, Java, etc.) that supports standard HTML form file uploads.
 - [You-Dont-Need-jQuery](https://github.com/nefe/You-Dont-Need-jQuery) - Examples of how to do query, style, dom, ajax, event etc like jQuery with plain javascript.
 
 ## Jupyter Notebook 
@@ -438,7 +439,6 @@
 
 ## Kotlin 
 
-- [profile-summary-for-github](https://github.com/tipsy/profile-summary-for-github) - Tool for visualizing GitHub profiles
 - [Kotlin-Tutorials](https://github.com/enbandari/Kotlin-Tutorials) - 【Kotlin 视频教程】国内资料较少，我录制了一套视频作为抛砖引玉~
 
 ## Lua 
@@ -451,6 +451,7 @@
 
 ## Makefile 
 
+- [articles](https://github.com/phodal/articles) - Article Publish in Wechat & Toutiao
 - [developer](https://github.com/phodal/developer) - developer roadmap. use growth https://github.com/phodal/growth replace this
 - [awesome-python-cn](https://github.com/jobbole/awesome-python-cn) - Python资源大全中文版，包括：Web框架、网络爬虫、模板引擎、数据库、数据可视化、图片处理等，由伯乐在线持续更新。
 
@@ -466,23 +467,27 @@
 
 ## Others 
 
+- [qdaily_backup](https://github.com/LampScript/qdaily_backup) - 好奇心日报备份计划  本项目启动于好奇心日报因喝茶后被停更3个月，万一关门好文章无法再重新检索，所以在 github 上做备份，供大家参阅。
+- [howto-make-more-money](https://github.com/easychen/howto-make-more-money) - 程序员如何优雅的挣零花钱
+- [Thor](https://github.com/PixelCyber/Thor) - HTTP Sniffer/Capture on iOS for Network Debug & Inspect.
+- [handbook](https://github.com/jaywcjlove/handbook) - 放置我的笔记、搜集、摘录、实践，保持好奇心。看文需谨慎，后果很严重。
+- [awesome-uikit](https://github.com/jaywcjlove/awesome-uikit) - Collect JS Frameworks, Web components library and Admin Template.
 - [redis-mindmap](https://github.com/Weiwf/redis-mindmap) - 通过思维导图整理redis的重要知识点
 - [git-tips](https://github.com/jaywcjlove/git-tips) - 这里是我的笔记，记录一些git常用和一些记不住的命令。
-- [awesome-stars](https://github.com/maguowei/awesome-stars) - Awesome List of my own!
+- [awesome-stars](https://github.com/maguowei/awesome-stars) - My Awesome List
 - [DMCA-takedown](https://github.com/closebilibili/DMCA-takedown) - For our loved Bilibili
 - [support.996.ICU](https://github.com/MSWorkers/support.996.ICU) - Microsoft and GitHub Workers Support 996.ICU
 - [CS-Interview-Knowledge-Map](https://github.com/InterviewMap/CS-Interview-Knowledge-Map) - Build the best interview map. The current content includes JS, network, browser related, performance optimization, security, framework, Git, data structure, algorithm, etc.
-- [source-code](https://github.com/fuck-xuexiqiangguo/source-code) - 源代码（经过了压缩）
 - [SJTU-Courses](https://github.com/CoolPhilChen/SJTU-Courses) - 上海交通大学课程资料分享
 - [opensource](https://github.com/programthink/opensource) - 【编程随想】收藏的开源项目清单
 - [Fuck-XueXiQiangGuo](https://github.com/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo) - 学习强国 懒人刷分工具 自动学习
 - [SpringBoot-Learning](https://github.com/dyc87112/SpringBoot-Learning) - Spring Boot基础教程，Spring Boot 2.x版本连载中！！！
 - [python_interview_question](https://github.com/kenwoodjw/python_interview_question) - 关于python的面试题
 - [awesome-hyper](https://github.com/bnb/awesome-hyper) - 🖥 Delightful Hyper plugins, themes, and resources
-- [dowww](https://github.com/spencerwooo/dowww) - 💡 Dev on Windows with WSL | 在 Windows 上用 WSL 优雅开发
+- [dowww](https://github.com/spencerwooo/dowww) - 📟 Dev on Windows with WSL | 在 Windows 上用 WSL 优雅开发
 - [feedback](https://github.com/Snipaste/feedback) - Feedback & wiki for Snipaste
 - [DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions) - 深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，50余万字。由于水平有限，书中不妥之处恳请广大读者批评指正。   未完待续............ 如有意合作，联系scutjy2015@163.com                     版权所有，违权必究       Tan 2018.06
-- [weekly](https://github.com/ruanyf/weekly) - 技术分享周刊，每周五发布
+- [weekly](https://github.com/ruanyf/weekly) - 科技爱好者周刊，每周五发布
 - [mysql-tutorial](https://github.com/jaywcjlove/mysql-tutorial) - MySQL入门教程（MySQL tutorial book）
 - [spring-guides-translation](https://github.com/SpringForAll/spring-guides-translation) - Spring官方教程【中文版】，最好的入门指南！
 - [chinese-programmer-wrong-pronunciation](https://github.com/shimohq/chinese-programmer-wrong-pronunciation) - 中国程序员容易发音错误的单词
@@ -513,11 +518,11 @@
 - [FE-interview](https://github.com/qiu-deqing/FE-interview) - 收集的前端面试题和答案
 - [tb_tddl](https://github.com/alibaba/tb_tddl) - 
 - [Wuhan-Internet-Companies](https://github.com/xmagicj/Wuhan-Internet-Companies) - 收集在武汉的互联网公司, 若有补充或更正请在Issue中留言
-- [Good-Text-Share](https://github.com/Wscats/Good-Text-Share) - :smiley_cat:《前端回忆录》These share data are from my usual work and learning，hoping to help you，If you like you can star
+- [articles](https://github.com/Wscats/articles) - 🔖My Learning Notes and Memories - 分享我的学习片段和与你的回忆
 - [MyNotebook](https://github.com/bboylin/MyNotebook) - my notebook
 - [hongyangWeixinArticles](https://github.com/hongyangAndroid/hongyangWeixinArticles) - 主要用于记录微信公众号所推送的所有文章，公众号：hongyangAndroid
 - [awesome-programming-books](https://github.com/jobbole/awesome-programming-books) - 经典编程书籍大全，涵盖：计算机系统与网络、系统架构、算法与数据结构、前端开发、后端开发、移动开发、数据库、测试、项目与团队、程序员职业修炼、求职面试等
-- [awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem.
+- [awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem
 - [static](https://github.com/staticfile/static) - 开放静态文件 - 为开源库提供稳定、快速的免费 CDN 服务
 - [Documents](https://github.com/ethanfu/Documents) - 主要包括自己的一些经验总结
 - [IntelliJ-IDEA-Tutorial](https://github.com/judasn/IntelliJ-IDEA-Tutorial) - IntelliJ IDEA 简体中文专题教程
@@ -565,7 +570,7 @@
 - [awesome-spider](https://github.com/facert/awesome-spider) - 爬虫集合
 - [gold-miner](https://github.com/xitu/gold-miner) - 🥇掘金翻译计划，可能是世界最大最好的英译中技术社区，最懂读者和译者的翻译平台：
 - [blog](https://github.com/yisibl/blog) - CSS大草原（一丝的博客）
-- [EasyJob](https://github.com/it-interview/EasyJob) - :fire:2018互联网求职面试知识复习
+- [EasyJob](https://github.com/Lemonjing/EasyJob) - :fire:2019互联网求职面试知识复习
 - [stackoverflow-java-top-qa](https://github.com/giantray/stackoverflow-java-top-qa) - stackoverflow上Java相关回答整理翻译
 - [FE-learning](https://github.com/qiu-deqing/FE-learning) - 结合个人经历总结的前端入门方法
 - [note-of-interview](https://github.com/zhengjianglong915/note-of-interview) - 《互联网面试笔记》收集和分析互联网常见面试题，并将这些面试知识整理成文方便大家查阅。主要是面向java程序员，但基础知识部分不同语言程序员(c,c++,python等）都可以参考。---持续更新中, 欢迎编辑~
@@ -590,13 +595,14 @@
 ## PHP 
 
 - [pay](https://github.com/yansongda/pay) - 可能是我用过的最优雅的 Alipay 和 WeChat 的支付 SDK 扩展包了
-- [wooyun_public](https://github.com/hanc00l/wooyun_public) - 乌云公开漏洞、知识库爬虫和搜索   crawl and search for wooyun.org public bug(vulnerability) and drops
+- [wooyun_public](https://github.com/hanc00l/wooyun_public) - This repo is archived. Thanks for wooyun!  乌云公开漏洞、知识库爬虫和搜索   crawl and search for wooyun.org public bug(vulnerability) and drops
 - [gdby_github_repo](https://github.com/microIBM/gdby_github_repo) - 
 - [Awsome-Front-End-learning-resource](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource) - :octocat:GitHub最全的前端资源汇总仓库（包括前端学习、开发资源、求职面试等）
 - [astral](https://github.com/astralapp/astral) - Organize Your GitHub Stars With Ease
 - [payment](https://github.com/helei112g/payment) - Payment是php版本的支付聚合第三方sdk，集成了微信支付、支付宝支付、招商一网通支付。提供统一的调用接口，方便快速接入各种支付、查询、退款、转账能力。服务端接入支付功能，方便、快捷。
 - [sns_auth](https://github.com/anerg2046/sns_auth) - 通用第三方登录SDK，支持微信，微信扫码，QQ，微博登录，支付宝登录，Facebook，Line，Twitter，Google
 - [manong](https://github.com/nemoTyrant/manong) - 码农周刊整理
+- [jQuery-File-Upload](https://github.com/blueimp/jQuery-File-Upload) - File Upload widget with multiple file selection, drag&drop support, progress bar, validation and preview images, audio and video for jQuery. Supports cross-domain, chunked and resumable file uploads. Works with any server-side platform (Google App Engine, PHP, Python, Ruby on Rails, Java, etc.) that supports standard HTML form file uploads.
 
 ## PLpgSQL 
 
@@ -608,6 +614,7 @@
 
 ## Python 
 
+- [mathAI](https://github.com/Roujack/mathAI) - 一个拍照做题程序。输入一张包含数学计算题的图片，输出识别出的数学计算式以及计算结果。This is a mathematic expression recognition project.
 - [geektime_dl](https://github.com/jachinlin/geektime_dl) - 把极客时间装进Kindle
 - [C--Compiler](https://github.com/LiuChangFreeman/C--Compiler) - C--compiler which implements LL(1)\LR(0)\SLR\LR(1) and semantic analysis and MIPS generate
 - [starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
@@ -618,7 +625,7 @@
 - [autojump](https://github.com/wting/autojump) - A cd command that learns - easily navigate directories from the command line
 - [USTC-Course](https://github.com/USTC-Resource/USTC-Course) - :heart:中国科学技术大学课程资源
 - [sqlalchemy](https://github.com/zzzeek/sqlalchemy) - THIS IS NOT THE OFFICIAL REPO - PLEASE SUBMIT PRs ETC AT: http://github.com/sqlalchemy/sqlalchemy
-- [jrnl](https://github.com/maebert/jrnl) - A simple command line journal application that stores your journal in a plain text file.
+- [jrnl](https://github.com/jrnl-org/jrnl) - Collect your thoughts and notes without leaving the command line.
 - [simple-railway-captcha-solver](https://github.com/JasonLiTW/simple-railway-captcha-solver) - 實作基於CNN的台鐵訂票驗證碼辨識以及透過模仿及資料增強的訓練集產生器 (Simple captcha solver based on CNN and a training set generator by imitating the style of captcha and data augmentation)
 - [fluent-python](https://github.com/cundi/fluent-python) - 《流畅的Python》2015年8月
 - [game-programmer](https://github.com/miloyip/game-programmer) - A Study Path for Game Programmer
@@ -635,12 +642,12 @@
 - [note](https://github.com/lzjun567/note) - 学习笔记
 - [note](https://github.com/hanyong/note) - hanyong 笔记
 - [AutoTrade](https://github.com/changye/AutoTrade) - 一款自动化交易框架, 可以在其基础上 架设自己的策略交易系统
-- [HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - :octocat: 一个分享 GitHub 上有趣、入门级的开源项目。让你找到编程的乐趣，欢迎推荐、自荐项目「每月28号更新」
+- [HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - :octocat: Find pearls on open-source seashore 分享 GitHub 上有趣、入门级的开源项目
 - [interactive-coding-challenges](https://github.com/521xueweihan/interactive-coding-challenges) - Python 面试挑战（数据结构、算法、架构、网络等）
 - [you-get](https://github.com/soimort/you-get) - :arrow_double_down: Dumb downloader that scrapes the web
 - [system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [scrapy](https://github.com/scrapy/scrapy) - Scrapy, a fast high-level web crawling & scraping framework for Python.
-- [httpie](https://github.com/jakubroztocil/httpie) - As easy as httpie /aitch-tee-tee-pie/ 🥧 Modern command line HTTP client – user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc.  https://twitter.com/clihttp
+- [httpie](https://github.com/jakubroztocil/httpie) - As easy as HTTPie /aitch-tee-tee-pie/ 🥧 Modern command line HTTP client – user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc.  https://twitter.com/clihttp
 - [awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
 - [interactive-coding-challenges](https://github.com/donnemartin/interactive-coding-challenges) - 120+ interactive Python coding interview challenges (algorithms and data structures).  Includes Anki flashcards.
 
@@ -669,11 +676,12 @@
 
 ## Shell 
 
+- [pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
 - [ss-fly](https://github.com/flyzy2005/ss-fly) - 一键脚本搭建ss/ssr并开启bbr内核加速（Ubuntu/CentOS/Debian）
 - [z](https://github.com/rupa/z) - z - jump around
 - [ArchWSL](https://github.com/yuk7/ArchWSL) - ArchLinux as a WSL Instance. Supports multiple install.
 - [fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
-- [powerlevel9k](https://github.com/bhilburn/powerlevel9k) - The most awesome Powerline theme for ZSH around!
+- [powerlevel9k](https://github.com/Powerlevel9k/powerlevel9k) - The most awesome Powerline theme for ZSH around!
 - [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
 - [zshguide](https://github.com/goreliu/zshguide) - Zsh 开发指南
 - [wsl-terminal](https://github.com/goreliu/wsl-terminal) - Terminal emulator for Windows Subsystem for Linux (WSL)
@@ -696,15 +704,18 @@
 
 ## TeX 
 
+- [libpku](https://github.com/lib-pku/libpku) - 贵校课程资料民间整理
 - [note](https://github.com/hellmonky/note) - 个人笔记
 - [resume](https://github.com/billryan/resume) - An elegant \LaTeX\ résumé template
 - [deeplearningbook-chinese](https://github.com/exacity/deeplearningbook-chinese) - Deep Learning Book Chinese Translation
 
 ## TypeScript 
 
+- [github-rank](https://github.com/jaywcjlove/github-rank) - Github 中国和全球用户排名，全球仓库 Star 最多排名。
+- [windows95](https://github.com/felixrieseberg/windows95) - 💩🚀 Windows 95 in Electron. Runs on macOS, Linux, and Windows.
 - [wired-elements](https://github.com/wiredjs/wired-elements) - Collection of custom elements that appear hand drawn. Great for wireframes or a fun look.
 - [growth-ionic](https://github.com/phodal/growth-ionic) - [v2.0 DEPRECATED, please update to Growth 3.0] Growth - App to help you Be Awesome Developer & Awesome Hacker
-- [ngx-admin](https://github.com/akveo/ngx-admin) - Admin dashboard template based on Angular 7+, Bootstrap 4 (previously known as ng2-admin)
+- [ngx-admin](https://github.com/akveo/ngx-admin) - Customizable admin dashboard template based on Angular 8+
 
 ## Vim script 
 
@@ -714,7 +725,8 @@
 ## Vue 
 
 - [PicGo](https://github.com/Molunerfinn/PicGo) - :rocket:A simple & beautiful tool for pictures uploading built by electron-vue
-- [vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) - :tada: A magical vue admin                                                                http://panjiachen.github.io/vue-element-admin
+- [vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) - :tada: A magical vue admin                                                                https://panjiachen.github.io/vue-element-admin
+- [profile-summary-for-github](https://github.com/tipsy/profile-summary-for-github) - Tool for visualizing GitHub profiles
 - [mi-by-vue](https://github.com/wendaosanshou/mi-by-vue) - 使用vue.js模仿小米官网
 - [douban](https://github.com/jeneser/douban) - Awesome douban DEMO created with Vue2.x + Vuex + Vue-router + Superagent
 - [vue-weixin](https://github.com/bailichen/vue-weixin) - Vue2 全家桶仿 微信App 项目，支持多人在线聊天和机器人聊天
