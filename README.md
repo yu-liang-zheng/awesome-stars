@@ -759,7 +759,7 @@
 - [putianxi.github.io](https://github.com/putianxi/putianxi.github.io) - 滚蛋吧！莆田系
 
 
-## License
+## License -- edit by k30pro
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
