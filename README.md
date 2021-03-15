@@ -23,6 +23,7 @@
   - [Lua](#lua)
   - [MATLAB](#matlab)
   - [Makefile](#makefile)
+  - [Nunjucks](#nunjucks)
   - [Objective-C](#objective-c)
   - [Others](#others)
   - [PHP](#php)
@@ -33,6 +34,7 @@
   - [Rich Text Format](#rich-text-format)
   - [Ruby](#ruby)
   - [Rust](#rust)
+  - [SCSS](#scss)
   - [Scala](#scala)
   - [Shell](#shell)
   - [Swift](#swift)
@@ -56,7 +58,6 @@
 - [AHK](https://github.com/health901/AHK) - 我的AHK脚本
 - [AutoHotKey_Vim](https://github.com/shines77/AutoHotKey_Vim) - A AutoHotKey script that simulate Vim hotkey in Windows (For Visual Studio)
 - [AHK](https://github.com/xcv58/AHK) - 
-- [Capslock](https://github.com/Vonng/Capslock) - Make Capslock Great Again!
 
 ## Batchfile 
 
@@ -98,9 +99,11 @@
 - [HoRNDIS](https://github.com/jwise/HoRNDIS) - Android USB tethering driver for Mac OS X
 - [QtScrcpy](https://github.com/barry-ran/QtScrcpy) - Android real-time display control software
 - [FreeReflection](https://github.com/tiann/FreeReflection) - A library that lets you use reflection without any restriction above Android P
+- [Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
 - [qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client
 - [libtorrent](https://github.com/arvidn/libtorrent) - an efficient feature complete C++ bittorrent implementation
 - [Terminal](https://github.com/SwimmingTiger/Terminal) - The new Windows Terminal, and the original Windows console host -- all in the same place!
+- [SecurityWorker](https://github.com/ErosZy/SecurityWorker) - The best javascript code protection solution ever.
 - [GreenChrome](https://github.com/shuax/GreenChrome) - 增强Chrome的工具
 - [terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
 - [USTC-Course](https://github.com/USTC-Resource/USTC-Course) - :heart:中国科学技术大学课程资源
@@ -130,7 +133,6 @@
 - [fex-team.github.io](https://github.com/fex-team/fex-team.github.io) - 做最专业的前端团队
 - [GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark) - :octocat: Dark GitHub style
 - [zhenhua-lee.github.io](https://github.com/zhenhua-lee/zhenhua-lee.github.io) - it is my blog
-- [gaohaoyang.github.io](https://github.com/Gaohaoyang/gaohaoyang.github.io) - blog & blog theme🤘
 - [jstutorial](https://github.com/ruanyf/jstutorial) - Javascript tutorial book
 
 ## Erlang 
@@ -152,11 +154,11 @@
 ## HTML 
 
 - [Xin-Yue](https://github.com/sikaozhe1997/Xin-Yue) - 岳昕：致北大师生与北大外国语学院的一封公开信
-- [china-indie-podcasts](https://github.com/typlog/china-indie-podcasts) - 发现与推荐高质量的中文独立播客
 - [wooyun_articles](https://github.com/jiji262/wooyun_articles) - drops.wooyun.org 乌云Drops文章备份
 - [wooyun_articles](https://github.com/vidar-team/wooyun_articles) - drops.wooyun.org 乌云Drops文章备份
 - [hexo-blog-lionkk](https://github.com/Chocolate1999/hexo-blog-lionkk) - :zap:魔改自butterfly :butterfly:主题，提供完整详细的文档，同时为了回馈开源，这不是生成后的网页文件，是您可以直接使用的源码，您只需要把博客相关信息换成您自己的就可以部署了，对于新手或者不懂编程的小伙伴来说，简直是福音！:heart:
 - [powersee.github.io](https://github.com/powersee/powersee.github.io) - 使用 hexo 搭建的博客
+- [Capslock](https://github.com/Vonng/Capslock) - Make Capslock Great Again!
 - [qiubaiying.github.io](https://github.com/qiubaiying/qiubaiying.github.io) - BY Blog -&gt;
 - [gitstars](https://github.com/znlbwo/gitstars) - Github Stars Repositories Manager
 - [REKCARC-TSC-UHT](https://github.com/PKUanonym/REKCARC-TSC-UHT) - 清华大学计算机系课程攻略 Guidance for courses in Department of Computer Science and Technology, Tsinghua University
@@ -184,18 +186,18 @@
 - [AdminLTE](https://github.com/ColorlibHQ/AdminLTE) - AdminLTE - Free admin dashboard template based on Bootstrap 4
 - [Front-end-Developer-Interview-Questions-of-Chinese](https://github.com/cuitianze/Front-end-Developer-Interview-Questions-of-Chinese) - 高级前端开发工程师面试题（不定期更新）
 - [blog](https://github.com/lifesinger/blog) - 岁月如歌
-- [Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) - A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore.
 - [http-api-design-ZH_CN](https://github.com/ZhangBohan/http-api-design-ZH_CN) - HTTP API 设计指南(http-api-design-ZH_CN)，翻译自https://github.com/interagent/http-api-design
 
 ## Java 
 
+- [kuku-bot](https://github.com/kukume/kuku-bot) - 基于YuQ-Mirai的机器人
 - [ForceWechatDarkMode](https://github.com/chouqibao/ForceWechatDarkMode) - 开启微信深色主题/暗色主题/深色模式/暗色模式
 - [MDWechat](https://github.com/Blankeer/MDWechat) - 一个能让微信 Material Design 化的 Xposed 模块
 - [WechatUnrecalled](https://github.com/fkzhang/WechatUnrecalled) - 
 - [Zhiliao](https://github.com/shatyuka/Zhiliao) - 知乎去广告Xposed模块
 - [geektime-spring-family](https://github.com/digitalsonic/geektime-spring-family) - 极客时间视频课程《玩转Spring全家桶》
 - [AutoCheckIn](https://github.com/wojiaonia/AutoCheckIn) - 自动打卡软件实现，需要安卓端和电脑端，这个是安卓端实现，基于android studio
-- [XMiTools](https://github.com/tianma8023/XMiTools) - An Xposed module for MIUI 10/MIUI 11 SystemUI / MIUI 10/MIUI 11 系统界面模块
+- [XMiTools](https://github.com/tianma8023/XMiTools) - An Xposed module for MIUI 10/11/12/12.5 SystemUI / MIUI 10/11/12/12.5 系统界面模块
 - [BILIBILI-HELPER](https://github.com/JunzhouLiu/BILIBILI-HELPER) - B站，哔哩哔哩（Bilibili）自动签到投币工具，每天轻松获取65经验值，支持每日自动投币，银瓜子兑换硬币，领取大会员福利，大会员月底给自己充电等功能。呐！赶快和我一起成为Lv6吧！
 - [Auto.js](https://github.com/hyb1996/Auto.js) - A UiAutomator on android, does not need root access(安卓平台上的JavaScript自动化工具)
 - [openvidu](https://github.com/OpenVidu/openvidu) - OpenVidu Platform main repository
@@ -367,8 +369,11 @@
 
 ## JavaScript 
 
+- [UnblockNeteaseMusic](https://github.com/nondanee/UnblockNeteaseMusic) - Revive unavailable songs for Netease Cloud Music
+- [WeChatExporter](https://github.com/tsycnh/WeChatExporter) - 一个可以快速导出、查看你的微信聊天记录的工具
 - [bilibili-helper](https://github.com/ipcjs/bilibili-helper) - 各种油猴脚本
 - [chinese-independent-blogs](https://github.com/timqian/chinese-independent-blogs) - 中文独立博客列表
+- [doesitarm](https://github.com/ThatGuySam/doesitarm) - 🦾 A list of reported app support for Apple Silicon and the new Apple M1 Macs
 - [hotlist](https://github.com/tongqii/hotlist) - 今日热榜(前端)
 - [iptv](https://github.com/iptv-org/iptv) - Collection of 5000+ publicly available IPTV channels from all over the world
 - [baiduyun](https://github.com/syhyz1990/baiduyun) - 一个免费开源的网盘下载助手
@@ -378,7 +383,6 @@
 - [Surfingkeys](https://github.com/brookhong/Surfingkeys) - Map your keys for web surfing, expand your browser with javascript and keyboard.
 - [staticgen](https://github.com/netlify/staticgen) - StaticGen.com, A leaderboard of top open-source static site generators
 - [octotree](https://github.com/ovity/octotree) - GitHub on steroids
-- [SecurityWorker](https://github.com/ErosZy/SecurityWorker) - The best javascript code protection solution ever.
 - [blog](https://github.com/amandakelake/blog) - think more！learn more!
 - [source-code](https://github.com/fuck-xuexiqiangguo/source-code) - 源代码（经过了压缩）
 - [ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes) - 🌈谷粒-Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类~  ChromePluginHeroes, Write a Chinese manual for the excellent Chrome plugin, let the Chrome plugin heroes benefit the human~ 公众号「0加1」同步更新
@@ -509,7 +513,6 @@
 - [BiliRoaming](https://github.com/yujincheng08/BiliRoaming) - 哔哩漫游，解除B站客户端番剧区域限制的Xposed模块，并且提供其他小功能。An Xposed module that unblocks bangumi area limit of BILIBILI with miscellaneous features.
 - [WifiSimulator](https://github.com/xuelongqy/WifiSimulator) - Wifi Simulator(WIFI模拟器)
 - [vtools](https://github.com/helloklf/vtools) - 一个集高级重启、应用安装自动点击、CPU调频等多项功能于一体的工具箱。
-- [Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
 - [Shizuku](https://github.com/RikkaApps/Shizuku) - Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.
 - [Kotlin-Tutorials](https://github.com/enbandari/Kotlin-Tutorials) - 【Kotlin 视频教程】国内资料较少，我录制了一套视频作为抛砖引玉~
 
@@ -530,6 +533,11 @@
 - [developer](https://github.com/phodal/developer) - developer roadmap. use growth https://github.com/phodal/growth replace this
 - [awesome-python-cn](https://github.com/jobbole/awesome-python-cn) - Python资源大全中文版，包括：Web框架、网络爬虫、模板引擎、数据库、数据可视化、图片处理等，由「开源前哨」和「Python开发者」微信公号团队维护更新。
 
+## Nunjucks 
+
+- [china-indie-podcasts](https://github.com/typlog/china-indie-podcasts) - 发现与推荐高质量的中文独立播客
+- [Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) - A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore.
+
 ## Objective-C 
 
 - [WeChatPlugin-MacOS](https://github.com/TKkk-iOSer/WeChatPlugin-MacOS) - 
@@ -541,6 +549,7 @@
 
 ## Others 
 
+- [nodejs-android-prebuilt-binaries](https://github.com/sjitech/nodejs-android-prebuilt-binaries) - Prebuilt binaries of NodeJS for Android(arm,arm64,x86,x64,mipsel), full or limited(by --without-snapshot --without-inspector --without-intl)
 - [Clash-Linux](https://github.com/yuanlam/Clash-Linux) - 记录Linux下折腾Clash的步骤
 - [Chinese-Podcasts](https://github.com/alaskasquirrel/Chinese-Podcasts) - 中文播客：Tech, Design, Science...
 - [WechatChums](https://github.com/dannyit/WechatChums) - 微信密友，隐藏通讯录好友和群聊
@@ -703,8 +712,10 @@
 
 ## Python 
 
+- [learn2018-autodown](https://github.com/Trinkle23897/learn2018-autodown) - 清华大学新版网络学堂课程自动下载脚本 / A python script to clone all files from learn.tsinghua.edu.cn
 - [Mooc_Downloader](https://github.com/PyJun/Mooc_Downloader) - 学无止下载器，慕课下载器，Mooc下载，慕课网下载，中国大学下载，爱课程下载，网易云课堂下载，学堂在线下载，超星学习通下载；支持视频，课件同时下载
 - [Depix](https://github.com/beurtschipper/Depix) - Recovers passwords from pixelized screenshots
+- [hub-mirror-action](https://github.com/Yikun/hub-mirror-action) - 一个Github Action，用于在Github和Gitee之间同步代码。Action for mirroring repos between Hubs (like Github and Gitee).
 - [BingWallpaper](https://github.com/xiaoliu66/BingWallpaper) - 用python+termux+auto.js 在安卓平板上实现每日定时爬取必应壁纸
 - [regular-investing-in-box](https://github.com/xiaolai/regular-investing-in-box) - 定投改变命运 —— 让时间陪你慢慢变富 https://onregularinvesting.com
 - [AnyNet](https://github.com/mileyan/AnyNet) - (ICRA) Anytime Stereo Image Depth Estimation on Mobile Devices
@@ -775,16 +786,21 @@
 - [pcap2socks](https://github.com/zhxie/pcap2socks) - Redirect traffic to SOCKS proxy with pcap.
 - [996.ICU](https://github.com/996icu/996.ICU) - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
 
+## SCSS 
+
+- [gaohaoyang.github.io](https://github.com/Gaohaoyang/gaohaoyang.github.io) - blog & blog theme🤘
+
 ## Scala 
 
 - [spark](https://github.com/apache/spark) - Apache Spark - A unified analytics engine for large-scale data processing
 
 ## Shell 
 
+- [busybox-ndk](https://github.com/Magisk-Modules-Repo/busybox-ndk) - busybox-ndk
+- [UnblockNeteaseMusic_for_Magisk](https://github.com/E7KMbb/UnblockNeteaseMusic_for_Magisk) - 这是用于Magisk的UnblockNeteaseMusic
 - [doubibackup](https://github.com/swjsky/doubibackup) - fork逗比大佬的脚本以及一些收藏
-- [hub-mirror-action](https://github.com/Yikun/hub-mirror-action) - 一个Github Action，用于在Github和Gitee之间同步代码。Action for mirroring repos between Hubs (like Github and Gitee).
 - [raspberry-webcam](https://github.com/barry-ran/raspberry-webcam) - 树莓派网络摄像头监控
-- [NfcScreenOff](https://github.com/Magisk-Modules-Repo/NfcScreenOff) - Read NFC tags when screen is off.
+- [NfcScreenOff](https://github.com/Magisk-Modules-Repo/NfcScreenOff) - Read NFC tags when screen is off. Disable NFC tagging sound.
 - [dynamic-wipe](https://github.com/Sherlockwoo/dynamic-wipe) - A Tasker project to use Project WIPE dynamically (ROOT)
 - [terminal_systemizer](https://github.com/Magisk-Modules-Repo/terminal_systemizer) - terminal_systemizer
 - [Anywhere-Docs](https://github.com/zhaobozhen/Anywhere-Docs) - Anywhere- 帮助文档
@@ -846,7 +862,6 @@
 
 ## Vue 
 
-- [doesitarm](https://github.com/ThatGuySam/doesitarm) - 🦾 A list of reported app support for Apple Silicon and the new Apple M1 Macs
 - [PicGo](https://github.com/Molunerfinn/PicGo) - :rocket:A simple & beautiful tool for pictures uploading built by vue-cli-electron-builder
 - [vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) - :tada: A magical vue admin                                                                https://panjiachen.github.io/vue-element-admin
 - [profile-summary-for-github](https://github.com/tipsy/profile-summary-for-github) - Tool for visualizing GitHub profiles
