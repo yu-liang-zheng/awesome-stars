@@ -14,6 +14,7 @@
   - [C++](#c++)
   - [CSS](#css)
   - [Dart](#dart)
+  - [Dockerfile](#dockerfile)
   - [Erlang](#erlang)
   - [Go](#go)
   - [HTML](#html)
@@ -66,6 +67,7 @@
 
 ## C 
 
+- [Awesome-HarmonyOS/HarmonyOS](https://github.com/Awesome-HarmonyOS/HarmonyOS) - A curated list of awesome things related to HarmonyOS. 华为鸿蒙操作系统。
 - [microsoftarchive/redis](https://github.com/microsoftarchive/redis) - Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes
 - [redis/redis](https://github.com/redis/redis) - Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.
 - [tporadowski/redis](https://github.com/tporadowski/redis) - Native port of Redis for Windows. Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs. This repository contains unofficial port of Redis to Windows.
@@ -91,7 +93,7 @@
 
 ## C# # 
 
-- [RayWangQvQ/BiliBiliTool.Docs](https://github.com/RayWangQvQ/BiliBiliTool.Docs) - BiliBiliTool的文档
+- [studyzy/imewlconverter](https://github.com/studyzy/imewlconverter) - 一款开源免费的输入法词库转换程序
 - [RayWangQvQ/BiliBiliTool](https://github.com/RayWangQvQ/BiliBiliTool) - 基于 .Net 5 的B站（哔哩哔哩）任务工具，实现每日自动运行任务：如每日自动登录、观看、分享、投币视频，获取每日任务的满额经验，轻松升级Level 6；如定时自动领取大会员权益、月底自动为自己充电；如天选时刻抽奖等功能。
 - [Tangent-90/Coolapk-UWP](https://github.com/Tangent-90/Coolapk-UWP) - 酷安第三方UWP客户端
 - [Wox-launcher/Wox.Plugin.BrowserBookmark](https://github.com/Wox-launcher/Wox.Plugin.BrowserBookmark) - Browser Bookmark plugin for Wox
@@ -145,6 +147,10 @@
 ## Dart 
 
 - [xuyisheng/flutter_dojo](https://github.com/xuyisheng/flutter_dojo) - A beautiful design and useful project for Building a flutter knowledge architecture
+
+## Dockerfile 
+
+- [RayWangQvQ/BiliBiliTool.Docs](https://github.com/RayWangQvQ/BiliBiliTool.Docs) - BiliBiliTool的文档
 
 ## Erlang 
 
@@ -214,7 +220,7 @@
 - [hyb1996/Auto.js](https://github.com/hyb1996/Auto.js) - A UiAutomator on android, does not need root access(安卓平台上的JavaScript自动化工具)
 - [OpenVidu/openvidu](https://github.com/OpenVidu/openvidu) - OpenVidu Platform main repository
 - [ysy950803/FiveGSwitcher](https://github.com/ysy950803/FiveGSwitcher) - 给MIUI开发一个5G快捷开关。
-- [Kr328/Riru-ClipboardWhitelist](https://github.com/Kr328/Riru-ClipboardWhitelist) - A module of Riru. Allow specific application access clipboard in background on Android 10.
+- [Kr328/Riru-ClipboardWhitelist](https://github.com/Kr328/Riru-ClipboardWhitelist) - A module of Riru. Allowing apps to access the clipboard in the background on Android 10.
 - [othorizon/spring-best-practices](https://github.com/othorizon/spring-best-practices) - spring 最佳实践 Demo案例
 - [uncleAndyChen/spring-petclinic](https://github.com/uncleAndyChen/spring-petclinic) - spring-petclinic， spring 官方例子-&gt;宠物医院，数据库改成 MySQL，数据库连接池改成 druid
 - [jdubois/spring-petclinic](https://github.com/jdubois/spring-petclinic) - A sample Spring-based application
@@ -524,6 +530,7 @@
 
 ## Jupyter Notebook 
 
+- [xianhu/LearnPython](https://github.com/xianhu/LearnPython) - 以撸代码的形式学习Python
 - [fchollet/deep-learning-with-python-notebooks](https://github.com/fchollet/deep-learning-with-python-notebooks) - Jupyter notebooks for the code samples of the book "Deep Learning with Python"
 - [lijin-THU/notes-python](https://github.com/lijin-THU/notes-python) - 中文 Python 笔记
 - [selfteaching/the-craft-of-selfteaching](https://github.com/selfteaching/the-craft-of-selfteaching) - One has no future if one couldn't teach themself.
@@ -572,6 +579,8 @@
 
 ## Others 
 
+- [tangtangcoding/C-C-](https://github.com/tangtangcoding/C-C-) - 程序员资料免费分享，欢迎关注个人微信公众号：程序员编程指南
+- [sflzxd/shenfanglizhuangxiudui](https://github.com/sflzxd/shenfanglizhuangxiudui) - 
 - [TwoWater/Python](https://github.com/TwoWater/Python) - 最良心的 Python 教程：
 - [cobaltdisco/Google-Chinese-Results-Blocklist](https://github.com/cobaltdisco/Google-Chinese-Results-Blocklist) - 我终于能用谷歌搜中文了……
 - [SpongeNobody/Clashy](https://github.com/SpongeNobody/Clashy) - A GUI proxy client for Windows / Mac / Ubuntu Desktop based on Clash and Electron. Windows / Mac / Ubuntu 适用的Clash客户端.
@@ -608,6 +617,7 @@
 - [maguowei/awesome-stars](https://github.com/maguowei/awesome-stars) - My Awesome List
 - [closebilibili/DMCA-takedown](https://github.com/closebilibili/DMCA-takedown) - For our loved Bilibili
 - [MSWorkers/support.996.ICU](https://github.com/MSWorkers/support.996.ICU) - Microsoft and GitHub Workers Support 996.ICU
+- [flyzy2005/ss-fly](https://github.com/flyzy2005/ss-fly) - 一键脚本搭建ss/ssr并开启bbr内核加速（Ubuntu/CentOS/Debian）
 - [InterviewMap/CS-Interview-Knowledge-Map](https://github.com/InterviewMap/CS-Interview-Knowledge-Map) - Build the best interview map. The current content includes JS, network, browser related, performance optimization, security, framework, Git, data structure, algorithm, etc.
 - [c-hj/SJTU-Courses](https://github.com/c-hj/SJTU-Courses) - 上海交通大学课程资料分享
 - [programthink/opensource](https://github.com/programthink/opensource) - 【编程随想】收藏的开源项目清单
@@ -738,6 +748,9 @@
 
 ## Python 
 
+- [arc298/instagram-scraper](https://github.com/arc298/instagram-scraper) - Scrapes an instagram user's photos and videos
+- [ageitgey/face_recognition](https://github.com/ageitgey/face_recognition) - The world's simplest facial recognition api for Python and the command line
+- [trekhleb/learn-python](https://github.com/trekhleb/learn-python) - 📚 Playground and cheatsheet for learning Python. Collection of Python scripts that are split by topics and contain code examples with explanations.
 - [equationl/QQzone_crawler](https://github.com/equationl/QQzone_crawler) - QQ 空间动态爬虫，利用cookie登录获取所有可访问好友空间的动态保存到本地
 - [xjr7670/QQzone_crawler](https://github.com/xjr7670/QQzone_crawler) - QQ 空间动态爬虫，利用cookie登录获取所有可访问好友空间的动态保存到本地
 - [sibtc/django-beginners-guide](https://github.com/sibtc/django-beginners-guide) - A Complete Beginner's Guide to Django - Code Samples
@@ -838,7 +851,6 @@
 - [Magisk-Modules-Repo/terminal_systemizer](https://github.com/Magisk-Modules-Repo/terminal_systemizer) - terminal_systemizer
 - [zhaobozhen/Anywhere-Docs](https://github.com/zhaobozhen/Anywhere-Docs) - Anywhere- 帮助文档
 - [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
-- [flyzy2005/ss-fly](https://github.com/flyzy2005/ss-fly) - 一键脚本搭建ss/ssr并开启bbr内核加速（Ubuntu/CentOS/Debian）
 - [rupa/z](https://github.com/rupa/z) - z - jump around
 - [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
 - [Powerlevel9k/powerlevel9k](https://github.com/Powerlevel9k/powerlevel9k) - Powerlevel9k was a tool for building a beautiful and highly functional CLI, customized for you. P9k had a substantial impact on CLI UX, and its legacy is now continued by P10k.
